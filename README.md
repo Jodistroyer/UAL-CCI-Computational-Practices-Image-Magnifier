@@ -3,6 +3,10 @@
 ## Description
 This project provides a simple image magnifier tool built in Processing. It allows users to zoom in on specific areas of an image and view them in detail. The magnifier works by enlarging the pixels within a region and drawing them as vectors.
 
+## Requirements
+- Written in Processing 4.3
+- No special libraries required.
+
 ## Operation/Usage
 1. **Open the project in a Processing environment**. Ensure you have Processing installed on your system.
 2. **Place an image file named "image.jpg"** in the same directory as the sketch. This image will be loaded and used for magnification.
