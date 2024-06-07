@@ -40,3 +40,12 @@ This project provides a simple image magnifier tool built in Processing. It allo
 
 ## Process
 The hardest part was probably the for loop to go through the pixels in an area. But I remember Tom showing us this method in one of his real life lectures, so I just added it in. Most of the solutions to do this were easy to find from the Processing documentation, and from the online lectures.
+
+## Authorship
+A code project by Wong Jo-Hann
+
+23/24 Computational Practices: Sound and Image Processing
+
+Creative Computing BSc class
+
+UAL CCI University Of the Arts London
